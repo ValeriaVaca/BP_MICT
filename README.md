@@ -7,8 +7,8 @@ Maestría de Ciencias en la Tierra - Facultad de Ingeniería en Ciencias de la T
 
 El github contiene:
 
-Base de datos climáticos
-Notebook con el informe del proyecto
-eda.png
-Presentación (.pptx)
-Instrucciones del proyecto
+-Base de datos climáticos
+-Notebook con el informe del proyecto
+-eda.png
+-Presentación (.pptx)
+-Instrucciones del proyecto
